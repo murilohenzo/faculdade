@@ -1,0 +1,10 @@
+
+e
+java:S1192"JDefine a constant instead of duplicating this literal "552342432" 5 times.(Âèµ…ûÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Š¾ëˆúÿÿÿÿ
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(“ƒ8¸Âí¸â0
+M	java:S106"9Replace this use of System.out or System.err by a logger.(“ƒ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ÿö¿¿ıÿÿÿÿ8ÈÂí¸â0
