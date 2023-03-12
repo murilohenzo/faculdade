@@ -9,7 +9,13 @@ Esrc/main/java/com/murilohenzo/atividade01/factory/RepositoryType.java,b\1\b105
 Lsrc/main/java/com/murilohenzo/atividade01/usecases/FindAllNumberUseCase.java,f\f\ffac8dbabef00cb48046a6edb36f7d99da06cf05
 y
 Isrc/main/java/com/murilohenzo/atividade01/usecases/FindNumberUseCase.java,4\0\4027f44fe066da8f99233634170e2e2ce8aaf257
-o
-?src/main/java/com/murilohenzo/atividade01/application/Demo.java,9\3\933bb04694dcef54adb6f35106092b2b3c571c30
 ç
 ]src/main/java/com/murilohenzo/atividade01/repositories/impl/NumberListRepositoryInMemory.java,f\f\ff1f47345ef75824508d4977fc6c09e3777f1acd
+é
+^src/main/java/com/murilohenzo/atividade01/repositories/impl/NumberArrayRepositoryInMemory.java,7\f\7f19ec3dceac9074fd3dc4264b110c6204f2587b
+{
+Ksrc/main/java/com/murilohenzo/atividade01/usecases/DeleteNumberUseCase.java,e\d\edfff951f5104792cf5b61005e817a3f720d0788
+~
+Nsrc/main/java/com/murilohenzo/atividade01/repositories/RepositoryInMemory.java,6\9\69fb6cc45ea4d6abbf06a8933b30e86bd53a66c7
+x
+Hsrc/main/java/com/murilohenzo/atividade01/factory/FactoryRepository.java,a\8\a8807a0a2a84a86deb4822113d03f454cb659b0e

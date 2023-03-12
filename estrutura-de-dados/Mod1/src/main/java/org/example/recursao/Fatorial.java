@@ -8,7 +8,8 @@ public class Fatorial {
     // 1! = 1
     public static long factorial(int n) {
         if (n <= 2) return n;
-        return n * factorial(n -
+        return n * factorial(n - 1);
+    }
     public static void main(String[] args) {
 
         var result = factorial(5);
